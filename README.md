@@ -9,7 +9,7 @@ Sou um desenvolvedor que gosta de aprender tecnologias e programação. Utilizo 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTeles-Dev&layout=compact&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,mysql,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,dart,flutter,react,mysql,github,git)](https://skillicons.dev)
 
 <hr>
 
